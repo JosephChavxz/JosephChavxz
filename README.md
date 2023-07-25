@@ -70,7 +70,6 @@
   </details>
   
   <details open>
-
     <summary><h2>🌟 Project Showcase</h2></summary>
   
     <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
